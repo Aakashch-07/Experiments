@@ -1,0 +1,58 @@
+/* General Page Styling */
+body {
+    background-color: #f1f5f9;
+    font-family: Arial, sans-serif;
+    padding: 30px;
+}
+
+/* Main Heading */
+h1 {
+    text-align: center;
+    color: #1e293b;
+    text-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+    margin-bottom: 40px;
+}
+
+/* Common Box Style */
+.box {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 25px;
+    border-radius: 10px;
+}
+
+/* Colors */
+.colors {
+    color: #ffffff;
+    background-color: #2563eb;
+}
+
+/* Fonts */
+.fonts {
+    font-family: "Georgia", serif;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+    color: #374151;
+}
+
+/* Borders */
+.borders {
+    border: 3px dashed #0f766e;
+    box-shadow: 4px 4px 10px rgba(0,0,0,0.2);
+}
+
+/* Backgrounds */
+.backgrounds {
+    background: linear-gradient(to right, #f97316, #facc15);
+    color: #1f2937;
+}
+
+/* Text Effects */
+.text-effects p {
+    color: #7c2d12;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    text-shadow: 1px 1px 3px gray;
+}
